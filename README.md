@@ -9,7 +9,7 @@ The goal of this analysis is to understand **sales distribution, product demand,
 
 ## 🚀 Features of the Dashboard  
 - **Total Sales Overview**  
-  - Total Sales: **$1.2M**  
+  - Total Sales: **$1.3M**  
   - Average Sales per Item: **$141**  
   - Number of Items Sold: **8,523**  
   - Average Rating: **3.9**  
