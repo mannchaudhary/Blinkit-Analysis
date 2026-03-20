@@ -71,4 +71,4 @@ The goal of this analysis is to understand **sales distribution, product demand,
 
 ## 📌 Conclusion  
 This dashboard provides a **comprehensive view of Blinkit’s sales performance**, helping identify growth opportunities, improve product mix, and optimize outlet operations.  
-It demonstrates the **power of data visualization in making data-driven business decisions**.  
+ 
